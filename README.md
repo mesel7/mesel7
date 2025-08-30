@@ -1,16 +1,50 @@
 ## Hi there 👋
 
-<!--
-**mesel7/mesel7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+안녕하세요, **사용자 경험을 중시하는 웹 개발자**입니다. / こんにちは、**ユーザー体験を大切にするWeb開発者**です。
 
-Here are some ideas to get you started:
+프론트엔드는 단순한 화면 구현이 아니라, **사용자 경험을 설계하는 일**이라고 생각합니다.  
+React를 중심으로 UI/UX 개선과 성능 최적화에 집중하며, 작은 지연과 오류도 놓치지 않고 해결하는 것을 중요하게 여깁니다.  
+협업 과정에서는 원활한 소통과 코드 품질을 중시하며, 팀과 함께 성장하는 개발자를 지향합니다。  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+フロントエンドは単なる画面作成ではなく、**ユーザー体験を設計すること**だと考えています。  
+Reactを中心にUI/UXの改善とパフォーマンス最適化に取り組み、細かな遅れや不具合も見逃さず解決することを大切にしています。  
+チーム開発では円滑なコミュニケーションとコード品質を重視し、仲間と共に成長する開発者を目指しています。  
+
+---
+
+## 🛠 기술 스택 / 技術スタック
+### Frontend
+- HTML5 (상 / 上)  
+- CSS3 (상 / 上)  
+- JavaScript (상 / 上)  
+- React (최상 / 最上)  
+
+### Backend
+- Node.js (중 / 中)  
+- Spring Boot (경험 있음 / 経験あり)  
+
+### Database
+- Firebase Database (상 / 上)  
+- MySQL (경험 있음 / 経験あり)  
+
+### Infra & Deployment
+- Firebase Hosting (상 / 上)  
+- AWS EC2 (경험 있음 / 経験あり)  
+
+### Collaboration & Versioning
+- Git/GitHub (중 / 中)  
+- Figma (중 / 中)  
+- Notion (중 / 中)
+
+## 
+최상 / 最上  
+상급 기술 중에서도 가장 자신 있는 기술 / 上級の技術の中でもっとも自信がある技術 
+
+상 / 上  
+전문 지식이 있고 사용 경험이 많음 / 専門知識があり、多数の使用経験がある  
+
+중 / 中  
+전문 지식과 사용 경험이 있음 / 専門知識があり、使用経験がある  
+
+경험 있음 / 経験あり  
+기초 이해 및 실무 연계 경험 있음 / 基礎理解・実務連携の経験がある
