@@ -12,12 +12,12 @@ React・Next.jsを基盤に、画面だけでなくサービス全体の流れ�
 ### Frontend
 - HTML5 (상 / 上)  
 - CSS3 (상 / 上)
-- Tailwind CSS (중 / 中) 
-- JavaScript (상 / 上)
-- TypeScript (중 / 中) 
-- React (최상 / 最上)
+- JavaScript (상 / 上) 
+- TypeScript (중 / 中)
+- React (최상 / 最上) 
+- Next.js (중 / 中)
 - Redux Toolkit (중 / 中)
-- Next.js (중 / 中) 
+- Tailwind CSS (중 / 中) 
 
 ### Backend
 - Node.js (중 / 中)  
